@@ -1,7 +1,4 @@
-// react imports
 import { useEffect, useRef } from "react"
-
-// rrd imports
 import { useFetcher } from "react-router-dom"
 
 // library imports
