@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Home Budget</h1>
 
-<p id="description">Welcome to the Personal Home! This web application is designed to help you take control of your finances by allowing you to create and track monthly budgets for various spending categories.</p>
+<p id="description">Manage your finances with ease using this web application. Create budgets, track expenses, and gain insights into your spending habits to achieve your financial goals.</p>
 
 <h2>🚀 Demo</h2>
 
